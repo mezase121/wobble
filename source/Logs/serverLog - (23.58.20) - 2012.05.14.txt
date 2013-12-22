@@ -1,7 +1,0 @@
-(23:58) (23:58) Server is running...
-(23:58) Received: login Pato
-(23:58) Sent: user server update Pato 
-(23:58) Received: all olhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaad  
-(23:58) Sent: all Pato (23:58): all olhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaadolhaad  
-(23:58) Received: alive Pato
-(23:58) Sent: Connection: Pato has disconnected.

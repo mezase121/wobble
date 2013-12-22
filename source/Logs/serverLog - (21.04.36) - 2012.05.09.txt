@@ -1,8 +1,0 @@
-(21:04) (21:04) Server is running...
-(21:04) Received: login pato
-(21:04) Sent: user server (21:04): update pato 
-(21:05) Received: login pato
-(21:05) Sent: Connection: pato has disconnected.
-(21:05) Received: login pato
-(21:05) Sent: user server (21:05): update pato 
-(21:05) Sent: Connection: pato has disconnected.
