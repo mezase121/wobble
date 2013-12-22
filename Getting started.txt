@@ -1,0 +1,14 @@
+1. Open Server.jar to host on port 27027
+2. Open Client.jar
+3. Click on Start Menu on top
+4. Connect...
+5. Enter IP of host (port 27027 must be open)
+6. Enter a valid username
+7. Chat
+
+Guest commands:
+/w [username] [message] 
+/admin [password]
+
+Admin commands:
+/kick [username]
