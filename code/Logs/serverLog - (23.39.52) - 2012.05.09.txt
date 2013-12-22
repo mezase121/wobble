@@ -1,0 +1,23 @@
+(23:39) (23:39) Server is running...
+(23:40) Received: login pato
+(23:40) Sent: user server update pato 
+(23:40) Sent: Connection: pato has disconnected.
+(23:41) Received: login pato
+(23:41) Sent: user server update pato 
+(23:41) Sent: Connection: pato has disconnected.
+(23:42) Received: login pato
+(23:42) Sent: user server update pato 
+(23:42) Sent: Connection: pato has disconnected.
+(23:43) Sent: Connection: Unknown user disconnected.
+(23:45) Received: login Pato
+(23:45) Sent: user server update Pato 
+(23:45) Sent: Connection: Pato has disconnected.
+(23:47) Received: login Pto
+(23:47) Sent: user server update Pto 
+(23:47) Sent: Connection: Pto has disconnected.
+(23:47) Received: login Pato
+(23:47) Sent: user server update Pato 
+(23:47) Sent: Connection: Pato has disconnected.
+(23:47) Received: login Matz_elloco
+(23:47) Sent: user server update Matz_elloco 
+(23:47) Sent: Connection: Matz_elloco has disconnected.

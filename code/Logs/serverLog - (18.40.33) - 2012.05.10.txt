@@ -1,0 +1,10 @@
+(18:40) (18:40) Server is running...
+(18:40) Received: login Pato
+(18:40) Sent: user server update Pato 
+(18:41) Received: all hola  
+(18:41) Sent: all Pato (18:41): all hola  
+(18:41) Received: all 
+como va 
+(18:41) Sent: all Pato (18:41): all 
+como va 
+(18:41) Sent: Connection: Pato has disconnected.

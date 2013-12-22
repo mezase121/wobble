@@ -1,0 +1,6 @@
+(16:26) (16:26) Server is running...
+(16:26) Sent: user server update Pato 
+(16:26) Received: login Pato
+(16:26) Received: all hola  
+(16:26) Sent: all Pato (16:26): all hola  
+(16:26) Received: /admin lmao 

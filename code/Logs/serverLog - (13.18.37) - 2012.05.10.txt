@@ -1,0 +1,421 @@
+(13:18) (13:18) Server is running...
+(13:18) Received: login Pato
+(13:18) Sent: user server update Pato 
+(13:18) Sent: Connection: Pato has disconnected.
+(13:45) Received: login Pato
+(13:45) Sent: user server update Pato 
+(13:45) Sent: Connection: Pato has disconnected.
+(13:48) Received: login Pato
+(13:48) Sent: user server update Pato 
+(13:48) Sent: Connection: Pato has disconnected.
+(13:49) Received: login Pato
+(13:49) Sent: user server update Pato 
+(13:49) Received: all kl;  
+(13:49) Sent: all Pato (13:49): all kl;  
+(13:52) Received: login Pato
+(13:52) Sent: Connection: Pato has disconnected.
+(13:52) Received: login Pato
+(13:52) Sent: user server update Pato 
+(13:53) Sent: Connection: Pato has disconnected.
+(13:53) Received: login Pato
+(13:53) Sent: user server update Pato 
+(13:53) Received: all hola  
+(13:53) Sent: all Pato (13:53): all hola  
+(13:54) Sent: Connection: Pato has disconnected.
+(14:34) Received: login Pato
+(14:34) Sent: user server update Pato 
+(14:34) Sent: Connection: Pato has disconnected.
+(15:09) Received: login Pato
+(15:09) Sent: user server update Pato 
+(15:09) Sent: Connection: Pato has disconnected.
+(15:10) Received: login Pato
+(15:10) Sent: user server update Pato 
+(15:10) Sent: Connection: Pato has disconnected.
+(15:10) Received: login Pato
+(15:10) Sent: user server update Pato 
+(15:10) Received: all ghj  
+(15:10) Sent: all Pato (15:10): all ghj  
+(15:10) Sent: Connection: Pato has disconnected.
+(15:13) Received: login Pato
+(15:13) Sent: user server update Pato 
+(15:13) Sent: Connection: Pato has disconnected.
+(15:13) Received: login Pato
+(15:13) Sent: user server update Pato 
+(15:13) Sent: Connection: Pato has disconnected.
+(15:14) Received: login Pato
+(15:14) Sent: user server update Pato 
+(15:14) Received: all hola  
+(15:14) Sent: all Pato (15:14): all hola  
+(15:14) Received: all jhkkhjio  
+(15:14) Sent: all Pato (15:14): all jhkkhjio  
+(15:14) Sent: Connection: Pato has disconnected.
+(15:14) Received: login Pato
+(15:14) Sent: user server update Pato 
+(15:14) Received: all kl  
+(15:14) Sent: all Pato (15:14): all kl  
+(15:14) Sent: Connection: Pato has disconnected.
+(15:58) Received: login Pato
+(15:58) Sent: user server update Pato 
+(15:58) Received: all hola  
+(15:58) Sent: all Pato (15:58): all hola  
+(15:59) Received: all como va 
+(15:59) Sent: all Pato (15:59): all como va 
+(15:59) Sent: Connection: Pato has disconnected.
+(16:01) Received: login Pato
+(16:01) Sent: user server update Pato 
+(16:01) Received: all 
+asdas
+  
+(16:01) Sent: all Pato (16:01): all 
+asdas
+  
+(16:01) Received: all 
+asdasdasdas  
+(16:01) Sent: all Pato (16:01): all 
+asdasdasdas  
+(16:01) Received: all 
+asdasd  
+(16:01) Sent: all Pato (16:01): all 
+asdasd  
+(16:01) Received: all 
+holaaa  
+(16:01) Sent: all Pato (16:01): all 
+holaaa  
+(16:01) Received: all asdas  
+(16:01) Sent: all Pato (16:01): all asdas  
+(16:01) Received: all asdasdasas
+
+
+
+
+
+  
+(16:01) Sent: all Pato (16:01): all asdasdasas
+
+
+
+
+
+  
+(16:01) Received: all 
+bhfg  
+(16:01) Sent: all Pato (16:01): all 
+bhfg  
+(16:01) Sent: Connection: Pato has disconnected.
+(16:01) Received: login Atosa
+(16:01) Sent: user server update Atosa 
+(16:01) Received: all 
+adasdas  
+(16:01) Sent: all Atosa (16:01): all 
+adasdas  
+(16:01) Received: all 
+asdasdasda
+asdsasdsa  
+(16:01) Sent: all Atosa (16:01): all 
+asdasdasda
+asdsasdsa  
+(16:01) Received: all 
+asdad  
+(16:01) Sent: all Atosa (16:01): all 
+asdad  
+(16:01) Received: all 
+asdasd
+asdasd  
+(16:01) Sent: all Atosa (16:01): all 
+asdasd
+asdasd  
+(16:02) Sent: Connection: Atosa has disconnected.
+(16:02) Received: login Pato
+(16:02) Sent: user server update Pato 
+(16:02) Received: all holaa  
+(16:02) Sent: all Pato (16:02): all holaa  
+(16:02) Received: all 
+dsffds  
+(16:02) Sent: all Pato (16:02): all 
+dsffds  
+(16:02) Sent: Connection: Pato has disconnected.
+(16:02) Received: login Pato
+(16:02) Sent: user server update Pato 
+(16:02) Received: all asdasddas  
+(16:02) Sent: all Pato (16:02): all asdasddas  
+(16:02) Received: all olaa  
+(16:02) Sent: all Pato (16:02): all olaa  
+(16:02) Sent: Connection: Pato has disconnected.
+(16:02) Received: login Pato
+(16:02) Sent: user server update Pato 
+(16:02) Received: all 
+jgh  
+(16:02) Sent: all Pato (16:02): all 
+jgh  
+(16:03) Received: all ghjjgh  
+(16:03) Sent: all Pato (16:03): all ghjjgh  
+(16:03) Received: all jkjkjkl  
+(16:03) Sent: all Pato (16:03): all jkjkjkl  
+(16:03) Sent: Connection: Pato has disconnected.
+(16:04) Received: login Pato
+(16:04) Sent: user server update Pato 
+(16:04) Received: all asdasdasasdas  
+(16:04) Sent: all Pato (16:04): all asdasdasasdas  
+(16:04) Received: all asdadsia  
+(16:04) Sent: all Pato (16:04): all asdadsia  
+(16:04) Sent: Connection: Pato has disconnected.
+(16:04) Received: login Pato
+(16:04) Sent: user server update Pato 
+(16:04) Received: all dadasdasdasda  
+(16:04) Sent: all Pato (16:04): all dadasdasdasda  
+(16:04) Sent: Connection: Pato has disconnected.
+(16:05) Received: login Pato
+(16:05) Sent: user server update Pato 
+(16:05) Received: all hola  
+(16:05) Sent: all Pato (16:05): all hola  
+(16:05) Received: all asdasd  
+(16:05) Sent: all Pato (16:05): all asdasd  
+(16:05) Received: all asdasdadadasdas  
+(16:05) Sent: all Pato (16:05): all asdasdadadasdas  
+(16:05) Received: all dasdasdasdasdsadasdsa  
+(16:05) Sent: all Pato (16:05): all dasdasdasdasdsadasdsa  
+(16:05) Received: all dasdasdasdasdwefrwe  
+(16:05) Sent: all Pato (16:05): all dasdasdasdasdwefrwe  
+(16:05) Received: all ferdfgfdfdf  
+(16:05) Sent: all Pato (16:05): all ferdfgfdfdf  
+(16:05) Sent: Connection: Pato has disconnected.
+(16:27) Received: login Pato
+(16:27) Sent: user server update Pato 
+(16:27) Received: all holaaa  
+(16:27) Sent: all Pato (16:27): all holaaa  
+(16:27) Received: all como va 
+(16:27) Sent: all Pato (16:27): all como va 
+(16:27) Sent: Connection: Pato has disconnected.
+(16:30) Received: login Pato
+(16:30) Sent: user server update Pato 
+(16:30) Received: all adsasd  
+(16:30) Sent: all Pato (16:30): all adsasd  
+(16:30) Received: all asdasd  
+(16:30) Sent: all Pato (16:30): all asdasd  
+(16:30) Received: all asdasd  
+(16:30) Sent: all Pato (16:30): all asdasd  
+(16:30) Received: all asdasdasdasdasd  
+(16:30) Sent: all Pato (16:30): all asdasdasdasdasd  
+(16:30) Received: all hasad  
+(16:30) Sent: all Pato (16:30): all hasad  
+(16:30) Received: all como va 
+(16:30) Sent: all Pato (16:30): all como va 
+(16:30) Sent: Connection: Pato has disconnected.
+(16:30) Received: login Matz
+(16:30) Sent: user server update Matz 
+(16:30) Received: all hola como va
+(16:30) Sent: all Matz (16:30): all hola como va
+(16:30) Received: all 
+
+asdas
+
+
+adas  
+(16:30) Sent: all Matz (16:30): all 
+
+asdas
+
+
+adas  
+(16:30) Received: all 
+asdasd
+
+asdasas
+
+ASdasdasd  
+(16:30) Sent: all Matz (16:30): all 
+asdasd
+
+asdasas
+
+ASdasdasd  
+(16:30) Received: all 
+asdasd
+asdasd
+  dfds
+(16:30) Sent: all Matz (16:30): all 
+asdasd
+asdasd
+  dfds
+(16:30) Received: all 
+
+
+
+12312 12123 
+(16:30) Sent: all Matz (16:30): all 
+
+
+
+12312 12123 
+(16:30) Sent: Connection: Matz has disconnected.
+(16:39) Received: login Pato
+(16:39) Sent: user server update Pato 
+(16:39) Received: all hola  
+(16:39) Sent: all Pato (16:39): all hola  
+(16:39) Received: all 
+
+
+	sdasdasd  
+(16:39) Sent: all Pato (16:39): all 
+
+
+	sdasdasd  
+(16:39) Sent: Connection: Pato has disconnected.
+(16:39) Received: login Pato
+(16:39) Sent: user server update Pato 
+(16:39) Received: all 
+
+
+asdasd  
+(16:39) Sent: all Pato (16:39): all 
+
+
+asdasd  
+(16:39) Sent: Connection: Pato has disconnected.
+(16:39) Received: login Pato
+(16:39) Sent: user server update Pato 
+(16:39) Received: all 
+
+
+
+sadas	asdasd	asdasdads  
+(16:39) Sent: all Pato (16:39): all 
+
+
+
+sadas	asdasd	asdasdads  
+(16:40) Sent: Connection: Pato has disconnected.
+(16:40) Received: login Pato
+(16:40) Sent: user server update Pato 
+(16:40) Received: all asd asd asd asd
+(16:40) Sent: all Pato (16:40): all asd asd asd asd
+(16:40) Received: all 
+
+asdasdd asd asd as ddasd ad as
+(16:40) Sent: all Pato (16:40): all 
+
+asdasdd asd asd as ddasd ad as
+(16:40) Received: all 	
+
+
+
+				asdas  
+(16:40) Sent: all Pato (16:40): all 	
+
+
+
+				asdas  
+(16:40) Sent: Connection: Pato has disconnected.
+(16:42) Received: login Pato
+(16:42) Sent: user server update Pato 
+(16:42) Received: all 
+
+		asdasd  
+(16:42) Sent: all Pato (16:42): all 
+
+		asdasd  
+(16:42) Sent: Connection: Pato has disconnected.
+(16:42) Received: login Pato
+(16:42) Sent: user server update Pato 
+(16:42) Received: all asd  
+(16:42) Sent: all Pato (16:42): all asd  
+(16:42) Received: all asdasda  
+(16:42) Sent: all Pato (16:42): all asdasda  
+(16:43) Received: all a sdas asd asd as
+(16:43) Sent: all Pato (16:43): all a sdas asd asd as
+(16:43) Received: all 
+
+
+		asdasd asd asd asd ad
+(16:43) Sent: all Pato (16:43): all 
+
+
+		asdasd asd asd asd ad
+(16:43) Received: all 
+
+
+		sadasadaads  
+(16:43) Sent: all Pato (16:43): all 
+
+
+		sadasadaads  
+(16:43) Sent: Connection: Pato has disconnected.
+(16:44) Received: login Pato
+(16:44) Sent: user server update Pato 
+(16:44) Received: all 
+
+		asdasdas asd asd awd as3 3 32 4
+(16:44) Sent: all Pato (16:44): all 
+
+		asdasdas asd asd awd as3 3 32 4
+(16:44) Received: all 
+
+
+		asdasd  
+(16:44) Sent: all Pato (16:44): all 
+
+
+		asdasd  
+(16:44) Sent: Connection: Pato has disconnected.
+(16:44) Received: login Pato
+(16:44) Sent: user server update Pato 
+(16:45) Received: all 
+
+
+		asdasdasasd  
+(16:45) Sent: all Pato (16:45): all 
+
+
+		asdasdasasd  
+(16:45) Sent: Connection: Pato has disconnected.
+(16:46) Received: login Pato
+(16:46) Sent: user server update Pato 
+(16:46) Received: login Matz
+(16:46) Sent: user server update Pato Matz 
+(16:46) Received: all holaa  
+(16:46) Sent: all Matz (16:46): all holaa  
+(16:46) Received: all ajasoadsjoas  
+(16:46) Sent: all Pato (16:46): all ajasoadsjoas  
+(16:46) Received: all ad sasas dada sas  as
+(16:46) Sent: all Pato (16:46): all ad sasas dada sas  as
+(16:47) Received: all hola  
+(16:47) Sent: all Matz (16:47): all hola  
+(16:47) Sent: Connection: Matz has disconnected.
+(16:47) Sent: user server update Pato 
+(16:47) Received: login Pato
+(16:47) Sent: Connection: Pato has disconnected.
+(16:47) Received: login Pato
+(16:47) Sent: user server update Pato 
+(16:47) Received: all hola  
+(16:47) Sent: all Pato (16:47): all hola  
+(16:48) Sent: Connection: Pato has disconnected.
+(16:48) Received: login Pato
+(16:48) Sent: user server update Pato 
+(16:48) Received: all hola  
+(16:48) Sent: all Pato (16:48): all hola  
+(16:48) Sent: Connection: Pato has disconnected.
+(16:48) Received: login Pato
+(16:48) Sent: user server update Pato 
+(16:48) Received: all dsffds  
+(16:48) Sent: all Pato (16:48): all dsffds  
+(16:48) Sent: Connection: Pato has disconnected.
+(16:49) Received: login Pato
+(16:49) Sent: user server update Pato 
+(16:49) Received: all asdas  
+(16:49) Sent: all Pato (16:49): all asdas  
+(16:49) Sent: Connection: Pato has disconnected.
+(16:49) Received: login Pato
+(16:49) Sent: user server update Pato 
+(16:49) Received: all hola  
+(16:49) Sent: all Pato (16:49): all hola  
+(16:49) Received: all como va 
+(16:49) Sent: all Pato (16:49): all como va 
+(16:49) Received: all todo bien? 
+(16:49) Sent: all Pato (16:49): all todo bien? 
+(16:49) Received: all 
+
+		asdaa  
+(16:49) Sent: all Pato (16:49): all 
+
+		asdaa  
+(16:49) Sent: Connection: Pato has disconnected.

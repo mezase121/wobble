@@ -1,0 +1,20 @@
+(17:16) (17:16) Server is running...
+(17:17) Received: login Pato
+(17:17) Sent: user server update Pato 
+(17:17) Received: all holaa  
+(17:17) Sent: all Pato (17:17): all holaa  
+(17:17) Received: all como va 
+(17:17) Sent: all Pato (17:17): all como va 
+(17:17) Received: all ajajha  
+(17:17) Sent: all Pato (17:17): all ajajha  
+(17:17) Received: login Matz
+(17:17) Sent: user server update Pato Matz 
+(17:17) Received: all ajajajaa  
+(17:17) Sent: all Matz (17:17): all ajajajaa  
+(17:17) Received: /w Pato puto
+(17:17) Sent: Pato Matz (17:17): /w Pato puto
+(17:17) Received: /admin lmao 
+(17:17) Received: /kick Pato 
+(17:17) Sent: Connection: Pato has disconnected.
+(17:17) Sent: user server update Matz 
+(17:18) Sent: Connection: Matz has disconnected.

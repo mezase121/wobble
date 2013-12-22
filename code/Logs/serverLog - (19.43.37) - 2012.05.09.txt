@@ -1,0 +1,60 @@
+(19:43) (19:43) Server is running...
+(19:43) Received: login pato
+(19:43) Sent: user server (19:43): update pato 
+(19:43) Received: all hp;a  
+(19:43) Sent: everyone pato (19:43): all hp;a  
+(19:43) Received: login matz
+(19:43) Sent: user server (19:43): update pato matz 
+(19:43) Received: all asd  
+(19:43) Sent: everyone pato (19:43): all asd  
+(19:43) Received: all as;ffg;  
+(19:43) Sent: everyone pato (19:43): all as;ffg;  
+(19:43) Received: all 'h;  
+(19:43) Sent: everyone pato (19:43): all 'h;  
+(19:43) Received: all gh'jk;jh  
+(19:43) Sent: everyone pato (19:43): all gh'jk;jh  
+(19:43) Received: all k;jhkl  
+(19:43) Sent: everyone pato (19:43): all k;jhkl  
+(19:43) Received: all 'jhk;  
+(19:43) Sent: everyone pato (19:43): all 'jhk;  
+(19:43) Received: all jh'kjh;k'jhk;jh  
+(19:43) Sent: everyone pato (19:43): all jh'kjh;k'jhk;jh  
+(19:43) Received: all 'k;;  
+(19:43) Sent: everyone pato (19:43): all 'k;;  
+(19:43) Received: all 'jghl  
+(19:43) Sent: everyone pato (19:43): all 'jghl  
+(19:43) Received: all jgh;jgh;  
+(19:43) Sent: everyone pato (19:43): all jgh;jgh;  
+(19:43) Received: all jgh'jglh  
+(19:43) Sent: everyone pato (19:43): all jgh'jglh  
+(19:43) Received: all jghjgl;;  
+(19:43) Sent: everyone pato (19:43): all jghjgl;;  
+(19:43) Received: all 'jghjlgh;  
+(19:43) Sent: everyone pato (19:43): all 'jghjlgh;  
+(19:44) Received: all 76i  
+(19:44) Sent: everyone pato (19:44): all 76i  
+(19:44) Received: all 78  
+(19:44) Sent: everyone pato (19:44): all 78  
+(19:44) Received: all o  
+(19:44) Sent: everyone pato (19:44): all o  
+(19:44) Received: all 89o89  
+(19:44) Sent: everyone pato (19:44): all 89o89  
+(19:44) Received: all o;89  
+(19:44) Sent: everyone pato (19:44): all o;89  
+(19:44) Received: all '0789;9'78;9  
+(19:44) Sent: everyone pato (19:44): all '0789;9'78;9  
+(19:44) Received: all '789;7  
+(19:44) Sent: everyone pato (19:44): all '789;7  
+(19:44) Received: all 8'0;89  
+(19:44) Sent: everyone pato (19:44): all 8'0;89  
+(19:44) Received: all 6;9  
+(19:44) Sent: everyone pato (19:44): all 6;9  
+(19:44) Received: all ''76;'76'8;76  
+(19:44) Sent: everyone pato (19:44): all ''76;'76'8;76  
+(19:44) Received: all '8  
+(19:44) Sent: everyone pato (19:44): all '8  
+(19:44) Received: all @@@@  
+(19:44) Sent: everyone pato (19:44): all @@@@  
+(19:44) Sent: Connection: pato has disconnected.
+(19:44) Sent: user server (19:44): update matz 
+(19:44) Sent: Connection: matz has disconnected.

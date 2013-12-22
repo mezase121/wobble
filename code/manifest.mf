@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Sealed: true
+Main-Class: client.Client
+Class-Path: jl1.0.1.jar

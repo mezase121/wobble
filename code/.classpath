@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="D:/DOWNLOADS 2010/Programming/Java/Libraries/jlayer1.0.1/jl1.0.1.jar" sourcepath="D:/DOWNLOADS 2010/Programming/Java/Libraries/jlayer1.0.1/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/D:/DOWNLOADS 2010/Programming/Java/Libraries/jlayer1.0.1/doc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

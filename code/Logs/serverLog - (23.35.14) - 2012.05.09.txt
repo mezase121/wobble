@@ -1,0 +1,5 @@
+(23:35) (23:35) Server is running...
+(23:35) Received: login pato
+(23:35) Sent: user server update pato 
+(23:35) Received: /w matz holaaa
+(23:35) Sent: Connection: pato has disconnected.

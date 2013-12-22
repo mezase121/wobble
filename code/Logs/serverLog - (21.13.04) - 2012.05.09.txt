@@ -1,0 +1,49 @@
+(21:13) (21:13) Server is running...
+(21:13) Received: login pato
+(21:13) Sent: user server (21:13): update pato 
+(21:13) Received: all hola  
+(21:13) Sent: all pato (21:13): all hola  
+(21:13) Received: all com va 
+(21:13) Sent: all pato (21:13): all com va 
+(21:13) Received: login matz
+(21:13) Sent: user server (21:13): update pato matz 
+(21:13) Received: login indy
+(21:13) Sent: user server (21:13): update pato matz indy 
+(21:13) Received: login mama
+(21:13) Sent: user server (21:13): update pato matz indy mama 
+(21:13) Received: all ola  
+(21:13) Sent: all indy (21:13): all ola  
+(21:13) Received: all asads  
+(21:13) Sent: all indy (21:13): all asads  
+(21:13) Received: all klkl;  
+(21:13) Sent: all mama (21:13): all klkl;  
+(21:13) Received: all kljk  
+(21:13) Sent: all pato (21:13): all kljk  
+(21:13) Sent: Connection: pato has disconnected.
+(21:13) Sent: user server (21:13): update matz indy mama 
+(21:13) Sent: Connection: mama has disconnected.
+(21:13) Sent: user server (21:13): update matz indy 
+(21:13) Sent: Connection: indy has disconnected.
+(21:13) Sent: user server (21:13): update matz 
+(21:14) Sent: Connection: matz has disconnected.
+(21:14) Received: login pato
+(21:14) Sent: user server (21:14): update pato 
+(21:14) Received: all hola  
+(21:14) Sent: all pato (21:14): all hola  
+(21:14) Received: all cmo va 
+(21:14) Sent: all pato (21:14): all cmo va 
+(21:14) Received: login matz
+(21:14) Sent: user server (21:14): update pato matz 
+(21:14) Received: all fdfgd  
+(21:14) Sent: all pato (21:14): all fdfgd  
+(21:14) Received: all fdgfd  
+(21:14) Sent: all matz (21:14): all fdgfd  
+(21:14) Received: all jhk  
+(21:14) Sent: all matz (21:14): all jhk  
+(21:14) Sent: Connection: pato has disconnected.
+(21:14) Sent: user server (21:14): update matz 
+(21:14) Sent: Connection: matz has disconnected.
+(21:14) Received: login pato
+(21:14) Sent: user server (21:14): update pato 
+(21:15) Received: login matz
+(21:15) Sent: user server (21:15): update pato matz 

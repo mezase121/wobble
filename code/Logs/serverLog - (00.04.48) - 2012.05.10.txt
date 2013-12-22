@@ -1,0 +1,46 @@
+(00:04) (00:04) Server is running...
+(00:04) Received: login pato
+(00:04) Sent: user server update pato 
+(00:04) Received: all @1219!4@  
+(00:04) Sent: all pato (00:04): all @1219!4@  
+(00:04) Received: all @1219!4@  
+(00:04) Sent: all pato (00:04): all @1219!4@  
+(00:04) Received: all @1219!4@@1219!4@@1219!4@@1219!4@  
+(00:04) Sent: all pato (00:04): all @1219!4@@1219!4@@1219!4@@1219!4@  
+(00:05) Received: all @1219!4@@1219!4@@1219!4@@1219!4@  
+(00:05) Sent: all pato (00:05): all @1219!4@@1219!4@@1219!4@@1219!4@  
+(00:05) Sent: Connection: pato has disconnected.
+(00:06) Received: login pato
+(00:06) Sent: user server update pato 
+(00:06) Sent: Connection: pato has disconnected.
+(00:07) Received: login pato
+(00:07) Sent: user server update pato 
+(00:07) Received: all hola  
+(00:07) Sent: all pato (00:07): all hola  
+(00:07) Received: all 
+adas
+  
+(00:07) Sent: all pato (00:07): all 
+adas
+  
+(00:07) Sent: Connection: pato has disconnected.
+(00:09) Received: login pato
+(00:09) Sent: user server update pato 
+(00:09) Received: all hola  
+(00:09) Sent: all pato (00:09): all hola  
+(00:09) Sent: Connection: pato has disconnected.
+(00:09) Received: login pato
+(00:09) Sent: user server update pato 
+(00:09) Received: all 1  
+(00:09) Sent: all pato (00:09): all 1  
+(00:09) Received: all 23  
+(00:09) Sent: all pato (00:09): all 23  
+(00:10) Received: all 4  
+(00:10) Sent: all pato (00:10): all 4  
+(00:10) Received: all 5  
+(00:10) Sent: all pato (00:10): all 5  
+(00:10) Received: all 678  
+(00:10) Sent: all pato (00:10): all 678  
+(00:10) Received: all 23as  
+(00:10) Sent: all pato (00:10): all 23as  
+(00:10) Sent: Connection: pato has disconnected.

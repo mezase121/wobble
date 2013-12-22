@@ -1,0 +1,22 @@
+(21:06) (21:06) Server is running...
+(21:07) Received: login pato
+(21:07) Sent: user server (21:07): update pato 
+(21:07) Received: all hola  
+(21:07) Sent: all pato (21:07): all hola  
+(21:07) Received: all com  
+(21:07) Sent: all pato (21:07): all com  
+(21:07) Received: all asdl;asa  
+(21:07) Sent: all pato (21:07): all asdl;asa  
+(21:07) Received: all sas  
+(21:07) Sent: all pato (21:07): all sas  
+(21:07) Received: all das  
+(21:07) Sent: all pato (21:07): all das  
+(21:07) Received: all fdg  
+(21:07) Sent: all pato (21:07): all fdg  
+(21:07) Received: all f  
+(21:07) Sent: all pato (21:07): all f  
+(21:07) Received: all ghj  
+(21:07) Sent: all pato (21:07): all ghj  
+(21:07) Received: all gh  
+(21:07) Sent: all pato (21:07): all gh  
+(21:07) Sent: Connection: pato has disconnected.

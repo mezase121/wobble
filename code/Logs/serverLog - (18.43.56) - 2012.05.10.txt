@@ -1,0 +1,89 @@
+(18:43) (18:43) Server is running...
+(19:06) Received: login Pato
+(19:06) Sent: user server update Pato 
+(19:06) Received: all asdasd  
+(19:06) Sent: all Pato (19:06): all asdasd  
+(19:06) Received: all asdasadssad  
+(19:06) Sent: all Pato (19:06): all asdasadssad  
+(19:06) Received: all asdasddsaadsas  
+(19:06) Sent: all Pato (19:06): all asdasddsaadsas  
+(19:06) Sent: Connection: Pato has disconnected.
+(19:07) Received: login Pato
+(19:07) Sent: user server update Pato 
+(19:07) Received: all asdadss  
+(19:07) Sent: all Pato (19:07): all asdadss  
+(19:07) Received: all 
+asddasdsa  
+(19:07) Sent: all Pato (19:07): all 
+asddasdsa  
+(19:07) Received: all 
+  
+(19:07) Sent: all Pato (19:07): all 
+  
+(19:07) Sent: Connection: Pato has disconnected.
+(19:07) Received: login Pato
+(19:07) Sent: user server update Pato 
+(19:07) Received: all asd  
+(19:07) Sent: all Pato (19:07): all asd  
+(19:07) Received: all 
+  
+(19:07) Sent: all Pato (19:07): all 
+  
+(19:07) Received: all 
+
+asd
+as
+d  
+(19:07) Sent: all Pato (19:07): all 
+
+asd
+as
+d  
+(19:07) Sent: Connection: Pato has disconnected.
+(19:08) Received: login Pato
+(19:08) Sent: user server update Pato 
+(19:08) Received: all holaa  
+(19:08) Sent: all Pato (19:08): all holaa  
+(19:08) Received: all 
+ds  
+(19:08) Sent: all Pato (19:08): all 
+ds  
+(19:08) Received: all 
+aadsdas  
+(19:08) Sent: all Pato (19:08): all 
+aadsdas  
+(19:08) Received: all 
+
+
+
+
+  
+(19:08) Sent: all Pato (19:08): all 
+
+
+
+
+  
+(19:08) Sent: Connection: Pato has disconnected.
+(19:08) Received: login Pato
+(19:08) Sent: user server update Pato 
+(19:08) Sent: Connection: Pato has disconnected.
+(19:09) Received: login Pato
+(19:09) Sent: user server update Pato 
+(19:09) Received: all hgjjh  
+(19:09) Sent: all Pato (19:09): all hgjjh  
+(19:09) Received: all jhkjkh  
+(19:09) Sent: all Pato (19:09): all jhkjkh  
+(19:09) Sent: Connection: Pato has disconnected.
+(19:10) Sent: Connection: Unknown user disconnected.
+(19:12) Received: login Pato
+(19:12) Sent: user server update Pato 
+(19:12) Received: all asdads  
+(19:12) Sent: all Pato (19:12): all asdads  
+(19:12) Received: all 
+sadasd
+ads  
+(19:12) Sent: all Pato (19:12): all 
+sadasd
+ads  
+(19:12) Sent: Connection: Pato has disconnected.

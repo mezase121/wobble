@@ -1,0 +1,10 @@
+(22:28) (22:28) Server is running...
+(22:28) Received: login Pato
+(22:28) Sent: user server update Pato 
+(22:28) Received: /w matz ads
+(22:28) Sent: Connection: Pato has disconnected.
+(22:28) Received: login Holaa
+(22:28) Sent: user server update Holaa 
+(22:28) Received: all dssdf  
+(22:28) Sent: all Holaa (22:28): all dssdf  
+(22:29) Sent: Connection: Holaa has disconnected.
